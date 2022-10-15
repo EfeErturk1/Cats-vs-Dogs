@@ -26,7 +26,7 @@ Used transfer learning on detecting humans vs horses from a inception model
 
 ----------------------------------------------------
 
-## Sign Language Letter Evaluator
+## Sign Language Interpretter
 
 Coursera, "Convolutional Neural Networks in TensorFlow" Course week 3 Assignment
 
