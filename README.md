@@ -1,35 +1,15 @@
-# Convolutional Neural Networks in TensorFlow
+# Deep Learning in TensorFlow
 
-## Cats vs Dogs:
+## C2: Convulotional Neural Networks in Tensorflow
 
-Coursera, "Convolutional Neural Networks in TensorFlow" Course week 1 Assignment
+Coursera, "Convolutional Neural Networks in TensorFlow" Course Assignments
 
-A machine Learning project that uses Convolutional Neural Networks to distinguish between cat and dog images
-
-Has 99.88% validation accuracy
+week 1 to week4
 
 ----------------------------------------------------
 
-## Useing Data Augmentation
+## C3: Natural Language Processing in Tensorflow
 
-Coursera, "Convolutional Neural Networks in TensorFlow" Course week 2 Assignment
+Coursera, "Natural Language Processing in Tensorflow" Course Assignment
 
-Used Data Augmentation on the same problem
-
-----------------------------------------------------
-
-## Humans vs Horses:
-
-Coursera, "Convolutional Neural Networks in TensorFlow" Course week 3 Assignment
-
-Used transfer learning on detecting humans vs horses from a inception model
-
-----------------------------------------------------
-
-## Sign Language Interpretter
-
-Coursera, "Convolutional Neural Networks in TensorFlow" Course week 3 Assignment
-
-Multi-class Classification
-
-Sign Language MNIST dataset, which contains 28x28 images of hands depicting the 26 letters of the english alphabet
+week 4 assignment
