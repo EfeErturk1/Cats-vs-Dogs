@@ -4,7 +4,10 @@
 
 Coursera, "Convolutional Neural Networks in TensorFlow" Course Assignments
 
-week 1 to week4
+- Week 1: Using CNN's with the Cats vs Dogs Dataset
+- Week 2: Tackle Overfitting with Data Augmentation
+- Week 3: Transfer Learning
+- Week 4: Multi-class Classification
 
 ----------------------------------------------------
 
@@ -12,4 +15,4 @@ week 1 to week4
 
 Coursera, "Natural Language Processing in Tensorflow" Course Assignment
 
-week 4 assignment
+- Week 4 assignment: Predicting the next word
